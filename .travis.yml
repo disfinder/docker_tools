@@ -1,2 +1,9 @@
+language: python
+
+services:
+  - docker
+
 before_install:
   - ls -alh
+
+script: bash true
