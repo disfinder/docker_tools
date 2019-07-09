@@ -6,4 +6,4 @@ services:
 before_install:
   - ls -alh
 
-script: bash true
+script: true
